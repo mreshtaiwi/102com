@@ -1,0 +1,24 @@
+main article section h2 {
+    color: red;
+    background-color: rgb(76, 96, 155);
+}
+h1{
+    background-color: lightcoral;
+    height: 20px;
+    width: 525px;
+    display: inline;
+    margin-top: 25px;
+}
+h2 {
+    color: blue;
+    font-size: 55px;
+}
+nav ul li {
+    display: inline-block;
+}
+
+span{
+    background-color: red;
+    display: inline-block;
+    width:500px;
+}
